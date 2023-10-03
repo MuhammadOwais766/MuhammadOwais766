@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuhammadOwais766
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning SQL, Excel and Tableau
+- 🌱 I’m currently learning SQL, Excel and PowerBI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me muhammadowais766@gmail.com
 

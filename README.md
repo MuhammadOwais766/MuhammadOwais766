@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MuhammadOwais766
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning SQL, Excel and PowerBI
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Muhammad Owais
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning SQL, Excel, Tableau and R programming language
+- 💞️ I’m looking to collaborate on any projects that require cleaning and visualization
 - 📫 How to reach me muhammadowais766@gmail.com
 
 <!---
